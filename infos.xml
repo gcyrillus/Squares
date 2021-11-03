@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<title>
+		<![CDATA[Squares]]>
+	</title>
+	<author>
+		<![CDATA[GC-nomade aka Gcyrillus]]>
+	</author>
+	<version>1</version>
+	<date>03/11/2021</date>
+	<site>https://re7net.com</site>
+	<description>
+		<![CDATA[Theme en grid sur 3,2,1 colonnes
+		<br>Si vous souhaitez utiliser ce théme, le premier mots du votre titre d'un article se trouveras seul sur sa ligne.
+		<br>2 points de ruptures pour passer de 3 à 1 colonne. l'un à 800px et l'autre à 500px.
+		<br>Uniquement compatible avec les navigateurs qui supporte le grid layout.
+		]>
+	</description>
+</document>
